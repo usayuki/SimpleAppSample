@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SimpleAppSample
 //
-//  Created by 石川 雅之 on 2022/10/29.
+//  Created by usayuki on 2022/10/29.
 //
 
 import UIKit
