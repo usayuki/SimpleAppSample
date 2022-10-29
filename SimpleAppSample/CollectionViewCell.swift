@@ -7,7 +7,6 @@
 
 import UIKit
 
-// CollectionViewのセル設定
 class CollectionViewCell: UICollectionViewCell {
     override init(frame: CGRect) {
         super.init(frame: frame)
